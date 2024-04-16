@@ -1,17 +1,34 @@
+import tkinter.messagebox as messagebox
+import pyttsx3
 import json
 
-# Cargar el árbol de taxonomía desde el JSON
-with open('taxonomia.json', 'r') as file:
+# Cargar la taxonomía desde el archivo JSON
+with open("Akinator/taxonomia.json") as file:
     taxonomia = json.load(file)
 
-# Predicados para cada nivel y dato en la taxonomía
+# Inicializar el motor de síntesis de voz
+engine = pyttsx3.init()
+
+def es_consecuente(X, Y):
+    # Verificar si Y es consecuente con X
+    if nivel_1(X):
+        nivel_2(X, Y)
+    elif nivel_2(X):
+        nivel_3(X, Y)
+    elif nivel_3(X):
+        nivel_4(X, Y)
+    elif nivel_4(X):
+        nivel_5(X, Y)
+    elif nivel_5(X):
+        nivel_6(X, Y)
+    elif nivel_6(X):
+        nivel_7(X, Y)
+
 def nivel_1(X):
-    return X == 'bic' or X == 'tec'
+    return X == 'bic_tec'
 
 def nivel_2(X, Y):
-    if X == 'bic':
-        return Y == 'software' or Y == 'hardware'
-    elif X == 'tec':
+    if X == 'bic_tec':
         return Y == 'software' or Y == 'hardware'
 
 def nivel_3(X, Y):
@@ -22,30 +39,30 @@ def nivel_3(X, Y):
 
 def nivel_4(X, Y):
     if X == 'internet':
-        return Y == 'motor de busqueda' or Y == 'web 2' or Y == 'web 3'
+        return Y == 'motor_de_busqueda' or Y == 'web2' or Y == 'web3'
     elif X == 'so':
         return Y == 'movil' or Y == 'escritorio'
 
 def nivel_5(X, Y):
-    if X == 'motor de busqueda':
-        return Y == 'web 2' or Y == 'web 3'
+    if X == 'motor_de_busqueda':
+        return Y == 'web2' or Y == 'web3'
     elif X == 'movil':
         return Y == 'Abierto' or Y == 'Cerrado'
     elif X == 'escritorio':
         return Y == 'abierto' or Y == 'cerrado'
 
 def nivel_6(X, Y):
-    if X == 'web 2':
-        return Y == 'open surce'
-    elif X == 'web 3':
+    if X == 'web2':
+        return Y == 'open_source'
+    elif X == 'web3':
         return Y == 'Dapps' or Y == 'NFTs'
     elif X == 'Abierto':
-        return Y == 'Android' or Y == 'Sailfish Os'
+        return Y == 'Android' or Y == 'Sailfish_Os'
     elif X == 'Cerrado':
         return Y == 'Android'
 
 def nivel_7(X, Y):
-    if X == 'open surce':
+    if X == 'open_source':
         return Y == 'firefox' or Y == 'opera'
     elif X == 'Dapps':
         return Y == {}
@@ -53,59 +70,54 @@ def nivel_7(X, Y):
         return Y == {}
     elif X == 'Android':
         return Y == {}
-    elif X == 'Sailfish Os':
-        return Y == {}
-    elif X == 'firefox':
-        return Y == {}
-    elif X == 'opera':
+    elif X == 'Sailfish_Os':
         return Y == {}
 
-# Reglas de inferencia interrelacionadas basadas en la taxonomía
-def es_consecuente(X, Y):
-    # Reglas para cada nivel y dato en la taxonomía
-    if nivel_1(X):
-        return nivel_2(X, Y)
-    elif nivel_2(X, Y):
-        return nivel_3(X, Y)
-    elif nivel_3(X, Y):
-        return nivel_4(X, Y)
-    elif nivel_4(X, Y):
-        return nivel_5(X, Y)
-    elif nivel_5(X, Y):
-        return nivel_6(X, Y)
-    elif nivel_6(X, Y):
-        return nivel_7(X, Y)
-    else:
-        return False
-
-# Función para realizar la inferencia basada en las reglas de taxonomía con backtracking
 def inferir_elemento(caracteristicas, nodo_actual):
     if not caracteristicas:
-        respuesta_final = input(f"¿El elemento es '{nodo_actual}'? (1 para sí / 2 para no): ")
-        if respuesta_final == '1':
-            return nodo_actual  # Éxito en la inferencia
+        mensaje = f"¿El elemento es '{nodo_actual}'?"
+        engine.say(mensaje)
+        engine.runAndWait()
+        respuesta_final = messagebox.askquestion("Akinator", mensaje)
+        if respuesta_final == 'yes':
+            return nodo_actual
         else:
-            return None  # Falla en la inferencia, se realizará backtracking
+            return None
 
-    pregunta = next(iter(caracteristicas))  # Obtener la primera característica para la pregunta
-    respuesta = input(f"¿El elemento tiene la característica '{pregunta}'? (1 para sí / 2 para no): ")
+    pregunta = next(iter(caracteristicas))
+    mensaje = f"¿El elemento tiene la característica '{pregunta}'?"
+    engine.say(mensaje)
+    engine.runAndWait()
+    respuesta = messagebox.askquestion("Akinator", mensaje)
 
-    if respuesta == '1':
+    if respuesta == 'yes':
         siguiente_nodo = caracteristicas[pregunta]
-        return inferir_elemento(siguiente_nodo, pregunta)  # Recursivamente continuar la inferencia
-    elif respuesta == '2':
+        return inferir_elemento(siguiente_nodo, pregunta)
+    elif respuesta == 'no':
         caracteristicas_restantes = {carac: caracteristicas[carac] for carac in caracteristicas if carac != pregunta}
         if not caracteristicas_restantes:
-            return None  # Si no quedan más características, regresar None (falla en la inferencia)
+            return None
 
-        # Probar con las características restantes (backtracking)
         for caracteristica in caracteristicas_restantes:
             siguiente_nodo = caracteristicas_restantes[caracteristica]
-            resultado = inferir_elemento(siguiente_nodo, caracteristica)  # Probar con cada característica restante
+            resultado = inferir_elemento(siguiente_nodo, caracteristica)
             if resultado:
                 return resultado
         
-        return None  # Si no se encontró ningún elemento, regresar None (falla en la inferencia)
+        return None
     else:
-        print("Respuesta no válida. Por favor responda '1' para sí o '2' para no.")
-        return inferir_elemento(caracteristicas, nodo_actual)  # Volver a solicitar la respuesta
+        messagebox.showerror("Error", "Respuesta no válida. Por favor responda 'yes' para sí o 'no' para no.")
+        return inferir_elemento(caracteristicas, nodo_actual)
+
+def iniciar_adivinanza():
+    # Iniciar la búsqueda desde el nivel 0 (bic_tec) del JSON de taxonomía
+    resultado = inferir_elemento(taxonomia, 'bic_tec')
+    if resultado:
+        mensaje_resultado = f"El elemento es '{resultado}'."
+        engine.say(mensaje_resultado)
+        engine.runAndWait()
+        messagebox.showinfo("Akinator", mensaje_resultado)
+    else:
+        engine.say("No se pudo inferir el elemento.")
+        engine.runAndWait()
+        messagebox.showinfo("Akinator", "No se pudo inferir el elemento.")

@@ -1,0 +1,2412 @@
+{
+  "bic tec": {
+    "software": {
+      "internet": {
+        "motor de busqueda": {
+          "web 2": {
+            "open surce": "firefox"
+          }
+        }
+      }
+    }
+  }
+}{
+    "bic tec": {
+      "software": {
+        "internet": {
+          "motor de busqueda": {
+            "web 2": {
+              "open surce": "opera"
+            }
+          }
+        }
+      }
+    }
+  }{
+    "bic tec": {
+      "software": {
+        "internet": {
+          "motor de busqueda": {
+            "web 2": {
+              "corporativo": "chrome"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "motor de busqueda": {
+            "web 2": {
+              "corporativo": "edge"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "motor de busqueda": {
+            "web 3": "Dapps"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "motor de busqueda": {
+            "web 3": "NFTs"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "multiplataforma": {
+                    "movil": "whatsapp"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "multiplataforma": {
+                    "movil": "line"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "multiplataforma": {
+                    "escritorio": "messenger"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "multiplataforma": {
+                    "escritorio": "sky"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "monoplataforma": "blackberry messenger"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "mensajeria instantanea": {
+                  "monoplataforma": "imessenger"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "interaccion personal": {
+                  "profesional": "linkedin"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "interaccion personal": {
+                  "informal": {
+                    "diario personal": "facebook"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "interaccion personal": {
+                  "informal": {
+                    "diario personal": "amigo sonico"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "comunicacion": {
+                "interaccion personal": {
+                  "informal": {
+                    "trivial": "ask.fm"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "en vivo": {
+                    "streaming": "twich"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "en vivo": {
+                    "streaming": "kick"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "en vivo": {
+                    "video llamada": "omegle"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "diferido": {
+                    "video corto": "ticktock"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "diferido": {
+                    "video corto": "kwai"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "audio visual": {
+                  "diferido": {
+                    "video": "youtube"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "texto": {
+                  "post": "x"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "texto": {
+                  "tema": "reddit"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "difusion": {
+                "texto": {
+                  "tema": "wordpress"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "imagenes": {
+                "social": {
+                  "filtros": "instagram"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "imagenes": {
+                "social": {
+                  "autentica": "bereal"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "imagenes": {
+                "profesional": {
+                  "libre": "pinterest"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "redes sociales": {
+              "imagenes": {
+                "profesional": {
+                  "pago": "adobe stock"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "ecomerce": {
+              "internacional": "Amazon"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "ecomerce": {
+              "internacional": "Ebay"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "app": {
+            "ecomerce": {
+              "Latino Americano": "Mercado Libre"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "so": {
+            "movil": {
+              "Abierto": "Android"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "movil": {
+            "Abierto": "Sailfish Os"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "movil": {
+            "Cerrado": "Android"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "movil": {
+            "Cerrado": "Android"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "corporativo": {
+                "profesional": {
+                  "seguridad": "ArchLinux"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "corporativo": {
+                "profesional": {
+                  "seguridad": "Kali linux"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "corporativo": {
+                "profesional": {
+                  "trasavilidad": "redhat"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "corporativo": {
+                "servidores": "Redhat"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "corporativo": {
+                "servidores": "Ubuntu server"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "domestico": "Ubuntu"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "domestico": "Kubuntu"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "abierto": {
+              "domestico": "mint"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "cerrado": {
+              "corporativo": "windows server"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "cerrado": {
+              "domestico": "windows"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "so": {
+          "escritorio": {
+            "cerrado": {
+              "domestico": "MacOs"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "software": {
+        "internet": {
+          "so": {
+            "escritorio": {}
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "hp"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "dell"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "lenovo"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "apple"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "acer"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "torre": "msi"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "apple"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "hp"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "dell"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "lenovo"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "microsoft"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "acer"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "escritorio": {
+              "all-in-one": "asus"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "apple"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "hp"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "dell"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "lenovo"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "microsoft"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabook": "acer"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "asus"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "ultrabooks": "samsung"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "lenovo legion"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "gygabyte aorus"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "hp omen"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "acer predator"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "razer"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "alienware"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "asus"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "pc": {
+            "portatil": {
+              "gaming laptops": "msi"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "google"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "oneplus"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "xiaomi"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "huawei"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "realme"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "oppo"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "motorola"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "android": "sony"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "apple": "iphone"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "windows": "nokia"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "windows": "lumia"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "windows": "hp"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "windows": "alcatel"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "ubuntu touch": "bq"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "ubuntu touch": "meizu"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "telefonos": {
+            "ubuntu touch": "fairphone"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "lenovo"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "amazon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "huawei"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "asus"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "google"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "xiaomi"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "android": "sony"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "apple": "ipad"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "windows": "surface"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "windows": "lenovo"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "windows": "dell"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "windows": "hp"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "dispositivos": {
+          "tabletas": {
+            "windows": "surface duo"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu escritorio": "intel"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu escritorio": "amd"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu laptop": "intel"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu laptop": "amd"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu servidores": "intel xeon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu servidores": "amd epyc"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu servidores": "arm"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu servidores": "ibm power"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu servidores": "oracle sparc"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu dispositivo movil": "qualcom snapdragon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "cpu": {
+            "cpu dispositivo movil": "mediateck dimensity"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu escritorio": "nvidia geoforce"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu escritorio": "amd radeon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu laptop": "nvidia geoforce"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu laptop": "amd radeon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu estacion de trabajo": "nvidia quadro"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu estacion de trabajo": "amd radeon pro"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu estacion de trabajo": "nvidia tesla"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu integrada": "nvidia geoforce"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "gpu": {
+            "gpu integrada": "amd radeon"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "seagate"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "western digital"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "toshiba"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "hitachi"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "seagate"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "western digital"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "toshiba"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "hitachi"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "disco duro hdd": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "kingston"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "western digital"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "adata"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "seagate"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "sandisk"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "western digital"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "crucial"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "sabrent"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "estado solido ssd": "corsair"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "sandisk"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "samsung"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "lexar"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "kingstone"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "pny"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "miscro-sd": "transcend"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "sandisk"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "samsung"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "lexar"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "kingstone"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "pny"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "sd": "sony"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "sandisk"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "samsung"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "adata"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "kingstone"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "pny"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "almacenamiento": {
+            "usb": {
+              "usb tipico": "lexar"
+            }
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "corsair"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "gskill"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "crucial"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "kingstone"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "teamgroup"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr4": "adata"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "gskill"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "crucial"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "gskill"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "teamgroup"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ddr5": "sk hynix"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "crucial"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "corsair"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "adata"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "teamgroup"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "so-dimm(portatiles)": "kingstone"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "crucial"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "samsung"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "hynix"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "ibm"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "hp"
+          }
+        }
+      }
+    }
+  }
+  {
+    "bic tec": {
+      "hardware": {
+        "componentes": {
+          "ram": {
+            "ecc(servidores)": "kingstone"
+          }
+        }
+      }
+    }
+  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

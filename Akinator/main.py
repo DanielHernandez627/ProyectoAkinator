@@ -1,14 +1,8 @@
 import tkinter as tk
 from PIL import Image, ImageTk
 import pyttsx3
-
-# Lista de frases para simular el diálogo del GIF
-frases = [
-    "¡Hola! Soy un GIF animado.",
-    "¿Cómo estás hoy?",
-    "¡Estoy aquí para animarte!",
-    "¡Diviértete programando con Python!",
-]
+import buscador
+import json
 
 # Texto inicial de saludo
 saludo_inicial = "¡Hola! Bienvenido a la aplicación del GIF hablante."
@@ -33,6 +27,11 @@ def actualizar_dialogo():
 
         # Incrementar el índice de frase
         indice_frase += 1
+    else:
+        # Llamar a iniciar la adivinanza al finalizar las frases
+        resultado_adivinanza = buscador.iniciar_adivinanza()
+        dialogo_label.config(text=resultado_adivinanza)
+        reproducir_texto_en_voz(resultado_adivinanza)
 
 # Función para empezar la lectura de las frases
 def empezar_lectura():
@@ -73,6 +72,14 @@ empezar_button.pack(pady=(0, 10), side=tk.BOTTOM)  # Alineado abajo con un peque
 # Botón para mostrar la siguiente frase
 siguiente_frase_button = tk.Button(ventana, text="Siguiente Frase", command=actualizar_dialogo, state=tk.DISABLED)
 siguiente_frase_button.pack(pady=(0, 20), side=tk.BOTTOM)  # Alineado abajo con un margen más grande arriba
+
+# Lista de frases para simular el diálogo del GIF
+frases = [
+    "¡Hola! Soy un GIF animado.",
+    "¿Cómo estás hoy?",
+    "¡Estoy aquí para animarte!",
+    "¡Diviértete programando con Python!",
+]
 
 # Índice inicial de la frase
 indice_frase = 0
